@@ -1,0 +1,18 @@
+{
+  "name": "instdb",
+  "version": "0.0.1",
+  "description": "A database of musical instruments",
+  "main": "src/index.js",
+  "repository": "https://github.com/jpaquim/instdb",
+  "author": "jpaquim",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "js-yaml": "^3.13.1",
+    "node-yaml": "^4.0.1"
+  },
+  "scripts": {
+    "start": "node -r esm src/index.js"
+  }
+}

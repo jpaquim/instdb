@@ -1,0 +1,194 @@
+samplers:
+  -
+    name: Native Instruments Maschine Mikro MK3
+    brand: Native Instruments
+    release_date: 2018
+    price:
+      gear4music: 220.25
+      thomann: 219
+    specs:
+      standalone: false
+      controller: true
+      portable: false
+      size: small
+      software: maschine
+      pads: 16
+      steps: null
+      other:
+        - Ableton Link
+  -
+    name: Native Instruments Maschine Jam
+    brand: Native Instruments
+    release_date: 2016
+    price:
+      gear4music: 357
+      thomann: 269
+    specs:
+      standalone: false
+      controller: true
+      portable: false
+      size: medium
+      software: maschine
+      pads: 64
+      steps: null
+      other:
+        - Ableton Link
+  -
+    name: Elektron Model:Samples
+    brand: Elektron
+    release_date: 2019
+    price:
+      gear4music: 400.5
+      thomann: 444
+    specs:
+      standalone: true
+      controller: true
+      portable: false
+      size: small
+      software: null
+      pads: null
+      steps: 16
+  -
+    name: Native Instruments Maschine MK3 Black
+    brand: Native Instruments
+    release_date: 2017
+    price:
+      gear4music: 509
+      thomann: 519
+    specs:
+      standalone: false
+      controller: true
+      portable: false
+      size: medium
+      software: maschine
+      pads: 16
+      steps: null
+      other:
+        - Ableton Link
+  -
+    name: Ableton Push 2
+    brand: Ableton
+    release_date: 2015
+    price:
+      gear4music: 603
+      thomann: 622
+    specs:
+      standalone: false
+      controller: true
+      portable: false
+      size: medium
+      software: Ableton Live (Intro + Beat Tools Pack)
+      pads: 64
+      steps: null
+      other:
+        - Ableton Link
+  -
+    name: Elektron Digitakt
+    brand: Elektron
+    release_date: 2017
+    price:
+      gear4music: 696
+      thomann: 655
+    specs:
+      standalone: true
+      controller: true
+      portable: false
+      size: small
+      software: Overbridge
+      pads: null
+      steps: 16
+  -
+    name: Akai MPC Live
+    brand: Akai
+    release_date: 2017
+    price:
+      gear4music: 979
+      thomann: 949
+    specs:
+      standalone: true
+      controller: true
+      portable: true
+      size: small
+      software: MPC 2.0
+      pads: 16
+      steps: null
+      other:
+        - Ableton Link
+  -
+    name: Pioneer DJ DJS-1000
+    brand: Pioneer JD
+    release_date: 2017
+    price:
+      gear4music: 1408
+    specs:
+      standalone: true
+      controller: true
+      portable: false
+      size: large
+      software: DJS-TSP Project Creator
+      pads: 16
+      steps: null
+  -
+    name: Elektron Octatrack MKII
+    brand: Elektron
+    release_date: 2017
+    price:
+      gear4music: 1267
+      thomann: 1275
+    specs:
+      standalone: true
+      controller: true
+      portable: false
+      size: medium
+      software: null
+      pads: null
+      steps: 16
+  -
+    name: Akai Force
+    brand: Akai
+    release_date: 2019
+    price:
+      gear4music: 1498
+      thomann: 1315
+    specs:
+      standalone: true
+      controller: false
+      portable: true
+      size: large
+      software: null
+      pads: 64
+      steps: null
+      other:
+        - Ableton Link
+        - Ableton Live Integration
+  -
+    name: Pioneer DJ TORAIZ SP-16
+    brand: Pioneer JD
+    release_date: 2016
+    price:
+      gear4music: 1486
+    specs:
+      standalone: true
+      controller: true
+      portable: false
+      size: large
+      software: DJS-TSP Project Creator
+      pads: 16
+      steps: 16
+  -
+    name: Akai MPC X
+    brand: Akai
+    release_date: 2017
+    price:
+      gear4music: 
+      thomann: 1799
+    specs:
+      standalone: true
+      controller: true
+      portable: false
+      size: large
+      software: MPC 2.0
+      pads: 16
+      steps: null
+      other:
+        - Ableton Link
